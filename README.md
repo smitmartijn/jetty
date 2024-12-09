@@ -18,6 +18,13 @@ As a developer, I frequently run multiple Docker containers for my projects, inc
 
 You can download a binary from the releases page: https://github.com/smitmartijn/jetty/releases
 
+### Using Homebrew
+
+```
+brew tap smitmartijn/jetty
+brew install jetty-docker
+```
+
 ### Building from source
 
 Requires Go 1.23.3+:
